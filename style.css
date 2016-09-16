@@ -1,0 +1,26 @@
+@media only screen and (max-width: 968px) {
+  body { font-size:70%;}
+}
+
+body{
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p{
+  padding:0%;
+  margin:0%;
+  text-align:center;
+}
+#percentdays{
+  font-size:4em;
+}
+
+#summerdays{
+  font-size:6em;
+}
+
+#display{
+  font-size:13em;
+}
